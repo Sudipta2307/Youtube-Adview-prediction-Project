@@ -21,13 +21,21 @@ in the algorithms for better results.
 
 Attribute Information:
 'vidid' : Unique Identification ID for each video
+
 'adview' : The number of adviews for each video
+
 'views' : The number of unique views for each video
+
 'likes' : The number of likes for each video
+
 'dislikes' : The number of likes for each video
+
 'comment' : The number of unique comments for each video
+
 'published' : The data of uploading the video
+
 'duration' : The duration of the video (in min. and seconds)
+
 'category' : Category niche of each of the video
 
 Objective:
